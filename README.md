@@ -3,3 +3,5 @@
 
 
 El dia sabado no debe haber clases
+
+No hay control de los papers
